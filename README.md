@@ -44,7 +44,7 @@ export EASYBUILD_ROBOT_PATHS=/fuyun/sources/ebfiles/FyDevOps/easybuild/easyconfi
 export EASYBUILD_BUILDPATH=/tmp/eb_build_${USERID}
 ```
 ##### deploy research sofware in docker 
-- Refer to the method described in the FyBuild repository(https://github.com/fusion-yun/FyBuild)
+- Refer to the method described in the FyBuild repository (https://github.com/fusion-yun/FyBuild)
 
 ##### rsync the result to destination site
 ```bash
